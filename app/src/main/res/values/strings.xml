@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="tittle">MyShoppingList</string>
+    <string name="bought">Bought</string>
+    <string name="new_shopping_item">New Item</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="estimated_price">Estimated price</string>
+    <string name="already_purchased">Already purchased</string>
+    <string name="priority">Priority</string>
+    <string name="deadline">Deadline</string>
+    <string name="change_deadline">Change deadline</string>
+
+    <string-array name="category_items">
+        <item>Entertainment</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Bill</item>
+        <item>Car</item>
+        <item>Sport</item>
+        <item>Health</item>
+        <item>Toiletry</item>
+        <item>House</item>
+        <item>Gift</item>
+    </string-array>
+</resources>
